@@ -1,0 +1,66 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Tenant {
+  id        String      @id @default(cuid())
+  name      String
+  slug      String      @unique
+  createdAt DateTime    @default(now())
+  updatedAt DateTime    @updatedAt
+  appointments Appointment[]
+  quotes     Quote[]
+  reviews    Review[]
+}
+
+model Appointment {
+  id            String   @id @default(cuid())
+  tenantId      String
+  tenant        Tenant   @relation(fields: [tenantId], references: [id])
+  customerName  String
+  email         String
+  phone         String
+  serviceType   String
+  preferredDate DateTime
+  notes         String?
+  locale        String   @default("en")
+  createdAt     DateTime @default(now())
+}
+
+model Quote {
+  id               String   @id @default(cuid())
+  tenantId         String
+  tenant           Tenant   @relation(fields: [tenantId], references: [id])
+  customerName     String
+  email            String
+  phone            String
+  insuranceProvider String?
+  damagePhotos     String?
+  message          String
+  status           QuoteStatus @default(PENDING)
+  createdAt        DateTime    @default(now())
+}
+
+enum QuoteStatus {
+  PENDING
+  SENT
+  APPROVED
+  DECLINED
+}
+
+model Review {
+  id          String   @id @default(cuid())
+  tenantId    String
+  tenant      Tenant   @relation(fields: [tenantId], references: [id])
+  authorName  String
+  rating      Int
+  comment     String
+  source      String
+  publishedAt DateTime @default(now())
+  locale      String   @default("en")
+}

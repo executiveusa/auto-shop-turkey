@@ -1,0 +1,16 @@
+{
+  "server": "railway",
+  "version": "0.2",
+  "tools": [
+    {
+      "name": "deploy",
+      "command": "railway up",
+      "description": "Deploy latest image"
+    },
+    {
+      "name": "status",
+      "command": "railway status",
+      "description": "Check service health"
+    }
+  ]
+}

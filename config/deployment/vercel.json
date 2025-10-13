@@ -1,0 +1,11 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "installCommand": "npm install",
+  "env": {
+    "SHOPMONKEY_API_KEY": "@shopmonkey_api_key",
+    "SHOP_TENANT_ID": "@shop_tenant_id",
+    "DATABASE_URL": "@database_url"
+  }
+}
