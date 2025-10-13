@@ -1,0 +1,350 @@
+{
+  "layout": {
+    "metaTitle": "Everett Auto Works | Engine Repair, Body Shop & Wraps",
+    "metaDescription": "Everett Auto Works provides trusted engine repair, body work, diagnostics, custom wraps and painting for Everett, WA and the 35-mile radius around 98204.",
+    "keywords": "Everett engine repair, Everett body shop, Everett diagnostics, 98204 auto shop",
+    "brand": "Everett Auto Works",
+    "nav": {
+      "engine": "Engine Repair",
+      "body": "Body Shop",
+      "diagnostics": "Diagnostics",
+      "wraps": "Custom Wraps",
+      "painting": "Painting",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "bookNow": "Book Now",
+    "footer": {
+      "aboutTitle": "Trusted Everett Mechanics",
+      "about": "Family-owned and ASE Certified auto shop serving Everett, Mukilteo, Lynnwood, and the surrounding Snohomish County communities.",
+      "directions": "Get Directions",
+      "contactTitle": "Contact",
+      "address": "11800 Airport Rd, Everett, WA 98204",
+      "phone": "(425) 555-0147",
+      "hours": "Mon-Fri 8am-6pm | Sat 9am-2pm",
+      "contactLink": "Message our team",
+      "socialTitle": "Follow our shop",
+      "socialCopy": "Stay updated on seasonal offers, builds, and community events.",
+      "legal": "© 2024 Everett Auto Works. All rights reserved."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Everett’s Trusted Auto Experts",
+      "subtitle": "Full-service engine repair, collision restoration, custom wraps, and diagnostics backed by multi-language support in English, Spanish, Turkish, and Ukrainian.",
+      "bookCta": "Schedule Service",
+      "reviewsCta": "See 4.8★ Google Reviews"
+    },
+    "services": {
+      "eyebrow": "Our specialties",
+      "title": "Complete care for every vehicle",
+      "cta": "Explore service",
+      "allServices": "View all services",
+      "items": {
+        "engine": {
+          "title": "Engine Repair & Performance",
+          "description": "Diagnostics, rebuilds, timing, and maintenance to keep Everett commuters running strong."
+        },
+        "body": {
+          "title": "Body Shop & Collision",
+          "description": "Frame straightening, paintless dent repair, insurance coordination, and OEM paint matching."
+        },
+        "diagnostics": {
+          "title": "Advanced Diagnostics",
+          "description": "Computerized scans, electrical testing, and drivability troubleshooting for modern vehicles."
+        },
+        "wraps": {
+          "title": "Custom Wraps & Graphics",
+          "description": "Fleet branding, color-change wraps, and ceramic coatings designed for the Pacific Northwest."
+        },
+        "painting": {
+          "title": "Precision Painting",
+          "description": "Showroom-quality finishes with climate-controlled booths and eco-friendly materials."
+        }
+      }
+    },
+    "trust": {
+      "eyebrow": "Social proof",
+      "title": "4.8★ rated by Everett drivers",
+      "description": "Real Google reviews from our Everett, Mukilteo, and Lynnwood neighbors build trust and credibility before you ever call.",
+      "disclaimer": "Reviews displayed via Google Business Profile widget."
+    },
+    "appointment": {
+      "eyebrow": "Fast scheduling",
+      "title": "Book your Everett service online",
+      "description": "Reserve a time that fits your schedule. Our AI agents confirm via SMS or email and sync with Shopmonkey instantly.",
+      "bullets": [
+        "Pick your preferred language and get human + AI support",
+        "Appointment data syncs with Shopmonkey workflow",
+        "Reminders by SMS and email so you never miss a visit"
+      ]
+    },
+    "campaigns": {
+      "title": "Seasonal care for Everett weather",
+      "description": "Automated email and SMS campaigns keep your customers safe in every season.",
+      "items": {
+        "winter": {
+          "title": "Winter prep (Nov-Feb)",
+          "copy": "Cold weather drains battery life and stiffens tires—prep before icy mornings hit Everett.",
+          "tips": [
+            "Free battery load test with every visit",
+            "Studded tire changeovers and torque checks",
+            "Heater and defroster inspections"
+          ]
+        },
+        "summer": {
+          "title": "Summer cooling (May-Aug)",
+          "copy": "Keep your commute cool. Summer heat can evaporate coolant and stress AC systems.",
+          "tips": [
+            "AC recharge & cabin filter specials",
+            "Cooling system flush with anti-corrosion treatment",
+            "Road-trip inspection package"
+          ]
+        },
+        "allSeasons": {
+          "title": "All-season safety",
+          "copy": "Everett’s hills demand healthy brakes, fluids, and lighting year-round.",
+          "tips": [
+            "Quarterly brake inspections",
+            "Full synthetic oil service",
+            "42-point safety & lighting check"
+          ]
+        }
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Service catalog",
+    "title": "Solutions for fleets and families",
+    "description": "Every package can be white-labeled for partner shops or franchises using our SaaS multi-tenant controls.",
+    "cta": "Read details",
+    "items": {
+      "engine": { "title": "Engine Repair", "summary": "Timing, rebuilds, and emissions repairs.", "slug": "engine-repair" },
+      "body": { "title": "Body Shop", "summary": "Collision restoration & insurance help.", "slug": "body-shop" },
+      "diagnostics": { "title": "Diagnostics", "summary": "Computer & electrical diagnostics.", "slug": "diagnostics" },
+      "wraps": { "title": "Custom Wraps", "summary": "Color change and fleet branding.", "slug": "custom-wraps" },
+      "painting": { "title": "Painting", "summary": "Eco-friendly spray booth finishes.", "slug": "painting" }
+    }
+  },
+  "servicePages": {
+    "engine": {
+      "eyebrow": "Everett engine repair",
+      "title": "Engine repair & performance upgrades",
+      "description": "From daily drivers to diesel work trucks, we keep Everett engines reliable with OEM diagnostics, machine work, and preventative maintenance.",
+      "sections": [
+        {
+          "title": "Precision diagnostics",
+          "copy": "We pair OBD-II scanning with live data logging to pinpoint misfires, leaks, and failing sensors.",
+          "bulletPoints": ["Compression & leak-down testing", "Hybrid & EV thermal management", "Turbocharger inspections"]
+        },
+        {
+          "title": "Repair & rebuild",
+          "copy": "In-house machining, timing chain and belt service, gasket replacement, and oil leak repairs backed by ASE-certified techs.",
+          "bulletPoints": ["Cylinder head resurfacing", "Timing component kits", "OEM or performance upgrades"]
+        }
+      ]
+    },
+    "body": {
+      "eyebrow": "Everett body shop",
+      "title": "Collision repair & body restoration",
+      "description": "Restore factory lines after fender benders or full collisions with structural repair, paint matching, and insurance coordination.",
+      "sections": [
+        {
+          "title": "Structural repair",
+          "copy": "Frame measuring systems align every repair to manufacturer specs.",
+          "bulletPoints": ["Aluminum & steel panel work", "Paintless dent repair", "Insurance documentation"]
+        },
+        {
+          "title": "Finish perfection",
+          "copy": "Eco-friendly spray booths deliver durable finishes that handle Pacific Northwest weather.",
+          "bulletPoints": ["Computerized color matching", "Ceramic coating add-ons", "Lifetime paint guarantee"]
+        }
+      ]
+    },
+    "diagnostics": {
+      "eyebrow": "Everett diagnostics",
+      "title": "Advanced automotive diagnostics",
+      "description": "Solve drivability issues with oscilloscope tracing, ADAS calibration, and EV system analysis.",
+      "sections": [
+        {
+          "title": "Digital testing",
+          "copy": "High-voltage safety, thermal imaging, and lab scopes catch issues before parts fail.",
+          "bulletPoints": ["ADAS calibration", "Battery management systems", "Programming & re-flashing"]
+        },
+        {
+          "title": "Reporting",
+          "copy": "Shareable reports in English, Spanish, Turkish, or Ukrainian for transparent customer communication.",
+          "bulletPoints": ["Shopmonkey-integrated estimates", "Video walkarounds", "Customer-approved checklists"]
+        }
+      ]
+    },
+    "wraps": {
+      "eyebrow": "Custom wraps",
+      "title": "Custom wraps & protective films",
+      "description": "Attract attention with color flips, commercial branding, and protective coatings built for rainy Everett commutes.",
+      "sections": [
+        {
+          "title": "Design & branding",
+          "copy": "Collaborate with our designers or upload print-ready files.",
+          "bulletPoints": ["Fleet templates", "Spot graphics", "Reflective safety decals"]
+        },
+        {
+          "title": "Protection",
+          "copy": "Ceramic coatings and paint protection film shield against road grime and UV.",
+          "bulletPoints": ["Self-healing PPF", "Ceramic pro coatings", "Maintenance plans"]
+        }
+      ]
+    },
+    "painting": {
+      "eyebrow": "Automotive painting",
+      "title": "Automotive painting & refinishing",
+      "description": "Premium paint systems with warranties for both collision repair and custom projects.",
+      "sections": [
+        {
+          "title": "Factory-grade finishes",
+          "copy": "Climate-controlled booths eliminate dust and ensure consistent curing.",
+          "bulletPoints": ["Waterborne paint systems", "Custom color matching", "UV-cured clear coats"]
+        },
+        {
+          "title": "Detailing & delivery",
+          "copy": "Quality control includes final detail, ceramic protection, and documentation for your records.",
+          "bulletPoints": ["Pre-delivery inspection", "Optional ceramic upgrade", "Warranty documentation"]
+        }
+      ]
+    }
+  },
+  "forms": {
+    "appointment": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "preferredDate": "Preferred date",
+      "serviceType": "Service type",
+      "notes": "Notes",
+      "cta": "Submit appointment",
+      "submitting": "Submitting...",
+      "success": "Thank you! Our Everett team will confirm shortly.",
+      "serviceOptions": {
+        "engine": "Engine repair",
+        "body": "Body shop",
+        "diagnostics": "Diagnostics",
+        "wraps": "Custom wraps",
+        "painting": "Painting"
+      },
+      "errors": {
+        "name": "Please enter your name",
+        "email": "Enter a valid email",
+        "phone": "Enter a phone number",
+        "preferredDate": "Select a date"
+      }
+    },
+    "serviceInquiry": {
+      "title": "Request a personalized plan",
+      "description": "Tell us about your vehicle and goals. Our AI agent drafts options, then a tech follows up.",
+      "vehicle": "Vehicle",
+      "year": "Year",
+      "make": "Make",
+      "model": "Model",
+      "descriptionField": "Describe your project",
+      "cta": "Send request",
+      "submitting": "Sending...",
+      "success": "We received your project details!",
+      "errors": {
+        "vehicle": "Enter vehicle details",
+        "year": "Enter model year",
+        "make": "Enter make",
+        "model": "Enter model",
+        "description": "Tell us how we can help"
+      }
+    },
+    "quote": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "insuranceProvider": "Insurance provider",
+      "damagePhotos": "Damage photo links",
+      "message": "Describe the damage",
+      "cta": "Request estimate",
+      "submitting": "Submitting...",
+      "success": "Estimate request received!",
+      "errors": {
+        "name": "Please enter your name",
+        "email": "Enter a valid email",
+        "phone": "Enter a phone number",
+        "message": "Tell us about the damage"
+      }
+    }
+  },
+  "book": {
+    "eyebrow": "Online booking",
+    "title": "Reserve your service time",
+    "description": "Choose your preferred time and language. Our agents confirm via SMS, email, or phone.",
+    "why": {
+      "title": "Why book with us?",
+      "copy": "We combine trusted technicians with AI agents that keep every customer informed.",
+      "bullets": [
+        "Real-time availability synced with Shopmonkey",
+        "AI + human follow-up in your preferred language",
+        "Digital vehicle inspections with photo updates"
+      ]
+    }
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "title": "Talk with our Everett team",
+    "description": "Call, message, or chat with an AI assistant 24/7 for scheduling, status updates, or quotes.",
+    "visit": {
+      "title": "Visit the shop",
+      "copy": "Conveniently located near Paine Field with ample parking and EV charging."
+    },
+    "address": "11800 Airport Rd, Everett, WA 98204",
+    "phone": "(425) 555-0147",
+    "hours": "Mon-Fri 8am-6pm | Sat 9am-2pm",
+    "directions": "Open in Google Maps"
+  },
+  "blog": {
+    "eyebrow": "Local insights",
+    "title": "Everett auto care tips",
+    "description": "Seasonal advice tailored to Snohomish County drivers.",
+    "cta": "Read article",
+    "posts": [
+      {
+        "slug": "spring-wheel-alignment",
+        "title": "Spring wheel alignment after Everett’s winter potholes",
+        "excerpt": "Why alignments matter after icy, pothole-filled winters and how to spot uneven tire wear.",
+        "date": "March 5, 2024"
+      },
+      {
+        "slug": "winter-battery-check",
+        "title": "Winter battery check before the first freeze",
+        "excerpt": "Cold weather drains battery life—learn how we test and replace before you’re stranded.",
+        "date": "November 1, 2023"
+      },
+      {
+        "slug": "summer-ac-maintenance",
+        "title": "Keep Everett commutes cool with AC maintenance",
+        "excerpt": "A/C tune-ups prevent coolant loss and keep rides comfortable in summer traffic.",
+        "date": "June 10, 2023"
+      }
+    ]
+  },
+  "blogDetail": {
+    "posts": {
+      "spring-wheel-alignment": {
+        "title": "Spring wheel alignment after Everett’s winter",
+        "date": "March 5, 2024",
+        "content": "<p>Everett winters can push suspension components out of spec. Schedule a precision alignment to protect tire life and fuel economy.</p>"
+      },
+      "winter-battery-check": {
+        "title": "Winter battery check before the first freeze",
+        "date": "November 1, 2023",
+        "content": "<p>Cold weather drains battery capacity. We test, clean terminals, and replace with OEM-grade options.</p>"
+      },
+      "summer-ac-maintenance": {
+        "title": "Keep Everett commutes cool with AC maintenance",
+        "date": "June 10, 2023",
+        "content": "<p>AC tune-ups include refrigerant checks, cabin filters, and leak detection to avoid summer breakdowns.</p>"
+      }
+    }
+  }
+}

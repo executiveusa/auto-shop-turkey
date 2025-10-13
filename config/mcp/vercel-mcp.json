@@ -1,0 +1,17 @@
+{
+  "server": "vercel",
+  "version": "1.0",
+  "endpoints": [
+    {
+      "name": "deploy",
+      "description": "Trigger Vercel MCP deployment",
+      "command": "vercel deploy --prod --yes",
+      "env": ["VERCEL_TOKEN", "VERCEL_ORG_ID", "VERCEL_PROJECT_ID"]
+    },
+    {
+      "name": "scale",
+      "description": "Scale edge functions via MCP",
+      "command": "vercel mcp scale --auto"
+    }
+  ]
+}

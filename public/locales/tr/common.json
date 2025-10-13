@@ -1,0 +1,233 @@
+{
+  "layout": {
+    "metaTitle": "Everett Auto Works | Motor ve Kaporta Servisi",
+    "metaDescription": "Everett, WA 98204 bölgesi için motor onarımı, kaporta, teşhis, kaplama ve boya hizmetleri.",
+    "keywords": "Everett motor tamiri, Everett kaporta, Everett teşhis",
+    "brand": "Everett Auto Works",
+    "nav": {
+      "engine": "Motor",
+      "body": "Kaporta",
+      "diagnostics": "Teşhis",
+      "wraps": "Kaplama",
+      "painting": "Boya",
+      "blog": "Blog",
+      "contact": "İletişim"
+    },
+    "bookNow": "Randevu Al",
+    "footer": {
+      "aboutTitle": "Güvenilir Everett ustaları",
+      "about": "ASE sertifikalı aile işletmesi; Everett, Mukilteo ve Lynnwood’a hizmet verir.",
+      "directions": "Yol tarifi",
+      "contactTitle": "İletişim",
+      "address": "11800 Airport Rd, Everett, WA 98204",
+      "phone": "(425) 555-0147",
+      "hours": "Pzt-Cum 08:00-18:00 | Cmt 09:00-14:00",
+      "contactLink": "Mesaj gönder",
+      "socialTitle": "Bizi takip edin",
+      "socialCopy": "Sezonluk kampanyalar ve projeler.",
+      "legal": "© 2024 Everett Auto Works. Tüm hakları saklıdır."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Everett’in güvenilir servis ekibi",
+      "subtitle": "Motor, kaporta, teşhis ve özel kaplama çözümleri; İngilizce, İspanyolca, Türkçe ve Ukraynaca destek.",
+      "bookCta": "Servis planla",
+      "reviewsCta": "4.8★ Google yorumları"
+    },
+    "services": {
+      "eyebrow": "Uzmanlıklarımız",
+      "title": "Her araç için kapsamlı bakım",
+      "cta": "Servisi incele",
+      "allServices": "Tüm servisler",
+      "items": {
+        "engine": { "title": "Motor onarımı", "description": "Teşhis, revizyon ve periyodik bakım." },
+        "body": { "title": "Kaporta ve boya", "description": "Şasi düzeltme, göçük düzeltme ve sigorta desteği." },
+        "diagnostics": { "title": "İleri teşhis", "description": "Bilgisayarlı tarama ve elektrik arızaları." },
+        "wraps": { "title": "Özel kaplamalar", "description": "Filo kaplaması ve renk değişimi." },
+        "painting": { "title": "Hassas boya", "description": "İklim kontrollü kabinler ve çevre dostu ürünler." }
+      }
+    },
+    "trust": {
+      "eyebrow": "Güven",
+      "title": "Everett sürücülerinden 4.8★",
+      "description": "Gerçek Google yorumları ziyaretçilerde güven oluşturur.",
+      "disclaimer": "Google Business Profile bileşeni."
+    },
+    "appointment": {
+      "eyebrow": "Hızlı randevu",
+      "title": "Everett servis randevusu alın",
+      "description": "SMS veya e-posta onayı; Shopmonkey ile anında senkron.",
+      "bullets": ["Dil seçeneğiyle insan + yapay zekâ destek", "Shopmonkey iş akışıyla uyum", "SMS/e-posta hatırlatmaları"]
+    },
+    "campaigns": {
+      "title": "Mevsimsel kampanyalar",
+      "description": "Everett iklimine uygun e-posta ve SMS şablonları.",
+      "items": {
+        "winter": { "title": "Kış hazırlığı", "copy": "Soğuk hava aküyü zayıflatır, lastikleri sertleştirir.", "tips": ["Akü testi", "Kış lastiği değişimi", "Isıtma kontrolü"] },
+        "summer": { "title": "Yaz serinliği", "copy": "Sıcaklık klima sistemlerini zorlar.", "tips": ["Klima gazı", "Soğutma sıvısı bakımı", "Yolculuk kontrolü"] },
+        "allSeasons": { "title": "Tüm sezon", "copy": "Fren, yağ ve aydınlatma güvenliği.", "tips": ["Fren kontrolleri", "Sentetik yağ bakımı", "42 nokta güvenlik"] }
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Servis kataloğu",
+    "title": "Aileler ve filolar için çözümler",
+    "description": "Çok kiracılı SaaS altyapısıyla markanıza uyum sağlar.",
+    "cta": "Detaylar",
+    "items": {
+      "engine": { "title": "Motor", "summary": "Zamanlama ve revizyon.", "slug": "engine-repair" },
+      "body": { "title": "Kaporta", "summary": "Çarpışma onarımı.", "slug": "body-shop" },
+      "diagnostics": { "title": "Teşhis", "summary": "Elektrik ve elektronik.", "slug": "diagnostics" },
+      "wraps": { "title": "Kaplama", "summary": "Renk ve reklam.", "slug": "custom-wraps" },
+      "painting": { "title": "Boya", "summary": "Premium finisaj.", "slug": "painting" }
+    }
+  },
+  "servicePages": {
+    "engine": {
+      "eyebrow": "Motor servisi",
+      "title": "Motor onarım ve performans",
+      "description": "OEM teşhis, revizyon ve bakım ile güvenilir motorlar.",
+      "sections": [
+        { "title": "Teşhis", "copy": "OBD-II tarama ve veri kaydı.", "bulletPoints": ["Kompresyon testi", "Hibrit sistem bakımı", "Turbo inceleme"] },
+        { "title": "Onarım", "copy": "Zincir/kayış setleri, keçeler ve performans yükseltmeleri.", "bulletPoints": ["Silindir kapak işlemi", "Zamanlama kitleri", "Performans parçaları"] }
+      ]
+    },
+    "body": {
+      "eyebrow": "Kaporta",
+      "title": "Çarpışma onarımı",
+      "description": "Şasi düzeltme ve boya garantisi.",
+      "sections": [
+        { "title": "Yapısal onarım", "copy": "Şasi ölçümü ve alüminyum/çelik işlemleri.", "bulletPoints": ["Alüminyum panel", "Göçük düzeltme", "Sigorta desteği"] },
+        { "title": "Son kat", "copy": "İklim kontrollü kabinlerde boya.", "bulletPoints": ["Renk eşleştirme", "Seramik kaplama", "Ömür boyu boya garantisi"] }
+      ]
+    },
+    "diagnostics": {
+      "eyebrow": "Teşhis",
+      "title": "Gelişmiş teşhis",
+      "description": "Osciloskop, ADAS kalibrasyonu ve EV analizi.",
+      "sections": [
+        { "title": "Dijital test", "copy": "Termal görüntüleme ve yüksek voltaj güvenliği.", "bulletPoints": ["ADAS kalibrasyonu", "Batarya yönetimi", "Yeniden programlama"] },
+        { "title": "Raporlama", "copy": "Dört dilde paylaşılabilir raporlar.", "bulletPoints": ["Shopmonkey teklifleri", "Video anlatım", "Onay listeleri"] }
+      ]
+    },
+    "wraps": {
+      "eyebrow": "Kaplama",
+      "title": "Özel kaplamalar",
+      "description": "Tasarım, filo markalama ve koruma filmleri.",
+      "sections": [
+        { "title": "Tasarım", "copy": "İç tasarım ekibiyle çalışın.", "bulletPoints": ["Filo şablonları", "Grafikler", "Reflektif detaylar"] },
+        { "title": "Koruma", "copy": "Seramik kaplama ve PPF.", "bulletPoints": ["Kendini onaran PPF", "Seramik kaplama", "Bakım planları"] }
+      ]
+    },
+    "painting": {
+      "eyebrow": "Boya",
+      "title": "Otomotiv boyası",
+      "description": "Kontrollü kabinlerde premium boya.",
+      "sections": [
+        { "title": "Fabrika kalitesi", "copy": "Tozsuz iklim kontrollü kabinler.", "bulletPoints": ["Su bazlı sistem", "Renk eşleme", "UV vernik"] },
+        { "title": "Teslimat", "copy": "Detaylı temizlik ve seramik opsiyon.", "bulletPoints": ["Teslimat öncesi kontrol", "Seramik opsiyon", "Garanti belgeleri"] }
+      ]
+    }
+  },
+  "forms": {
+    "appointment": {
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "preferredDate": "Tercih edilen tarih",
+      "serviceType": "Servis",
+      "notes": "Notlar",
+      "cta": "Randevu gönder",
+      "submitting": "Gönderiliyor...",
+      "success": "Teşekkürler! Ekibimiz kısa sürede onaylayacak.",
+      "serviceOptions": {
+        "engine": "Motor",
+        "body": "Kaporta",
+        "diagnostics": "Teşhis",
+        "wraps": "Kaplama",
+        "painting": "Boya"
+      },
+      "errors": {
+        "name": "Adınızı girin",
+        "email": "Geçerli e-posta girin",
+        "phone": "Telefon girin",
+        "preferredDate": "Tarih seçin"
+      }
+    },
+    "serviceInquiry": {
+      "title": "Kişiye özel teklif iste",
+      "description": "Aracınızı anlatın, yapay zekâ seçenek sunsun.",
+      "vehicle": "Araç",
+      "year": "Model yılı",
+      "make": "Marka",
+      "model": "Model",
+      "descriptionField": "Projenizi anlatın",
+      "cta": "Gönder",
+      "submitting": "Gönderiliyor...",
+      "success": "Projeniz bize ulaştı!",
+      "errors": {
+        "vehicle": "Araç bilgisi gerekli",
+        "year": "Yıl girin",
+        "make": "Marka girin",
+        "model": "Model girin",
+        "description": "İhtiyacınızı yazın"
+      }
+    },
+    "quote": {
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "insuranceProvider": "Sigorta şirketi",
+      "damagePhotos": "Hasar fotoğrafları",
+      "message": "Hasarı anlatın",
+      "cta": "Teklif iste",
+      "submitting": "Gönderiliyor...",
+      "success": "Talebiniz alındı!",
+      "errors": {
+        "name": "Adınızı girin",
+        "email": "Geçerli e-posta",
+        "phone": "Telefon girin",
+        "message": "Hasarı açıklayın"
+      }
+    }
+  },
+  "book": {
+    "eyebrow": "Randevu",
+    "title": "Servis zamanınızı ayırın",
+    "description": "SMS, e-posta veya telefonla onay alın.",
+    "why": {
+      "title": "Avantajlar",
+      "copy": "Uzman teknisyen + yapay zekâ destek.",
+      "bullets": ["Anlık takvim", "Çok dilli iletişim", "Dijital kontroller"]
+    }
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "Ekibimizle konuşun",
+    "description": "24/7 sohbet, telefon veya yapay zekâ asistanı.",
+    "visit": { "title": "Bizi ziyaret edin", "copy": "Paine Field yakınında, otoparklı." },
+    "address": "11800 Airport Rd, Everett, WA 98204",
+    "phone": "(425) 555-0147",
+    "hours": "Pzt-Cum 08:00-18:00 | Cmt 09:00-14:00",
+    "directions": "Google Maps’te aç"
+  },
+  "blog": {
+    "eyebrow": "Yerel ipuçları",
+    "title": "Everett için bakım önerileri",
+    "description": "Mevsimlere göre bakım rehberi.",
+    "cta": "Oku",
+    "posts": [
+      { "slug": "spring-wheel-alignment", "title": "İlkbahar rot ayarı", "excerpt": "Kış çukurlarından sonra rot ayarı.", "date": "5 Mart 2024" },
+      { "slug": "winter-battery-check", "title": "Kış öncesi akü kontrolü", "excerpt": "Soğukta akünüz zayıflamasın.", "date": "1 Kasım 2023" },
+      { "slug": "summer-ac-maintenance", "title": "Yaz klima bakımı", "excerpt": "Serin sürüş için ipuçları.", "date": "10 Haziran 2023" }
+    ]
+  },
+  "blogDetail": {
+    "posts": {
+      "spring-wheel-alignment": { "title": "İlkbahar rot ayarı", "date": "5 Mart 2024", "content": "<p>Everett kışından sonra rot ayarıyla lastik ömrünü koruyun.</p>" },
+      "winter-battery-check": { "title": "Kış öncesi akü kontrolü", "date": "1 Kasım 2023", "content": "<p>Akü testi, kutup başı temizliği ve OEM değişim.</p>" },
+      "summer-ac-maintenance": { "title": "Yaz klima bakımı", "date": "10 Haziran 2023", "content": "<p>Klima gazı, filtre ve kaçak kontrolüyle sıcak günlere hazır olun.</p>" }
+    }
+  }
+}

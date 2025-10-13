@@ -1,0 +1,249 @@
+{
+  "layout": {
+    "metaTitle": "Everett Auto Works | Reparación de motores y carrocería",
+    "metaDescription": "Taller de Everett con reparación de motor, carrocería, diagnósticos, envolturas personalizadas y pintura para el área 98204.",
+    "keywords": "reparación de motor Everett, taller carrocería Everett, diagnósticos Everett",
+    "brand": "Everett Auto Works",
+    "nav": {
+      "engine": "Motor",
+      "body": "Carrocería",
+      "diagnostics": "Diagnóstico",
+      "wraps": "Envolturas",
+      "painting": "Pintura",
+      "blog": "Blog",
+      "contact": "Contacto"
+    },
+    "bookNow": "Reservar",
+    "footer": {
+      "aboutTitle": "Mecánicos de confianza en Everett",
+      "about": "Taller familiar y certificado ASE que atiende Everett, Mukilteo y Lynnwood.",
+      "directions": "Cómo llegar",
+      "contactTitle": "Contacto",
+      "address": "11800 Airport Rd, Everett, WA 98204",
+      "phone": "(425) 555-0147",
+      "hours": "Lun-Vie 8am-6pm | Sáb 9am-2pm",
+      "contactLink": "Enviar mensaje",
+      "socialTitle": "Síguenos",
+      "socialCopy": "Promociones de temporada y proyectos locales.",
+      "legal": "© 2024 Everett Auto Works. Todos los derechos reservados."
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Expertos automotrices de Everett",
+      "subtitle": "Servicio completo con apoyo en inglés, español, turco y ucraniano.",
+      "bookCta": "Agendar servicio",
+      "reviewsCta": "Ver reseñas 4.8★"
+    },
+    "services": {
+      "eyebrow": "Especialidades",
+      "title": "Cuidado completo para tu vehículo",
+      "cta": "Ver servicio",
+      "allServices": "Todos los servicios",
+      "items": {
+        "engine": { "title": "Reparación de motor", "description": "Diagnóstico, reconstrucción y mantenimiento." },
+        "body": { "title": "Carrocería y colisión", "description": "Enderezado de chasis, PDR y seguros." },
+        "diagnostics": { "title": "Diagnóstico avanzado", "description": "Escáner, eléctrico y problemas de manejo." },
+        "wraps": { "title": "Envolturas personalizadas", "description": "Branding comercial y cambios de color." },
+        "painting": { "title": "Pintura de precisión", "description": "Cabinas controladas y materiales ecológicos." }
+      }
+    },
+    "trust": {
+      "eyebrow": "Confianza",
+      "title": "Calificación 4.8★ en Google",
+      "description": "Mostrar testimonios reales aumenta la credibilidad de tu taller.",
+      "disclaimer": "Widget incrustado desde Google Business Profile."
+    },
+    "appointment": {
+      "eyebrow": "Agenda rápida",
+      "title": "Reserva tu servicio en Everett",
+      "description": "Nuestros agentes confirman por SMS o correo y sincronizan con Shopmonkey.",
+      "bullets": [
+        "Soporte humano + IA en tu idioma",
+        "Datos sincronizados con Shopmonkey",
+        "Recordatorios por SMS y email"
+      ]
+    },
+    "campaigns": {
+      "title": "Campañas por temporada",
+      "description": "Emails y SMS adaptados al clima de Everett.",
+      "items": {
+        "winter": {
+          "title": "Invierno (nov-feb)",
+          "copy": "El frío descarga la batería y endurece los neumáticos.",
+          "tips": ["Prueba de batería", "Cambio de neumáticos", "Revisión de calefacción"]
+        },
+        "summer": {
+          "title": "Verano (may-ago)",
+          "copy": "El calor evapora el refrigerante y exige el A/C.",
+          "tips": ["Recarga de A/C", "Limpieza del sistema de enfriamiento", "Inspección para viajes"]
+        },
+        "allSeasons": {
+          "title": "Todo el año",
+          "copy": "Mantén frenos, aceite e iluminación en óptimas condiciones.",
+          "tips": ["Inspecciones de frenos", "Servicio de aceite", "Chequeo de seguridad"]
+        }
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Catálogo",
+    "title": "Soluciones para familias y flotillas",
+    "description": "La plataforma SaaS permite marca blanca y multicliente.",
+    "cta": "Detalles",
+    "items": {
+      "engine": { "title": "Motor", "summary": "Sincronización y reparación.", "slug": "engine-repair" },
+      "body": { "title": "Carrocería", "summary": "Restauración e seguros.", "slug": "body-shop" },
+      "diagnostics": { "title": "Diagnóstico", "summary": "Escáner y eléctrico.", "slug": "diagnostics" },
+      "wraps": { "title": "Envolturas", "summary": "Branding y protección.", "slug": "custom-wraps" },
+      "painting": { "title": "Pintura", "summary": "Acabados premium.", "slug": "painting" }
+    }
+  },
+  "servicePages": {
+    "engine": {
+      "eyebrow": "Reparación de motor",
+      "title": "Motores confiables",
+      "description": "Servicios OEM, reconstrucción y mantenimiento preventivo.",
+      "sections": [
+        { "title": "Diagnóstico", "copy": "Escaneo OBD-II y pruebas de compresión.", "bulletPoints": ["Prueba de compresión", "Gestión híbrida", "Inspección de turbo"] },
+        { "title": "Reparación", "copy": "Rectificado, cadenas de tiempo y empaques.", "bulletPoints": ["Culatas", "Kits de tiempo", "Actualizaciones"] }
+      ]
+    },
+    "body": {
+      "eyebrow": "Taller de carrocería",
+      "title": "Reparación de colisiones",
+      "description": "Enderezado estructural y pintura garantizada.",
+      "sections": [
+        { "title": "Estructura", "copy": "Medición láser y soldadura especializada.", "bulletPoints": ["Aluminio y acero", "PDR", "Gestión de seguros"] },
+        { "title": "Acabado", "copy": "Cabinas ecológicas y recubrimientos cerámicos.", "bulletPoints": ["Igualación de color", "Cerámica", "Garantía de pintura"] }
+      ]
+    },
+    "diagnostics": {
+      "eyebrow": "Diagnóstico",
+      "title": "Diagnóstico avanzado",
+      "description": "Osciloscopio, calibración ADAS y análisis EV.",
+      "sections": [
+        { "title": "Pruebas digitales", "copy": "Termografía y escaneo de alta tensión.", "bulletPoints": ["Calibración ADAS", "Baterías", "Reprogramación"] },
+        { "title": "Reportes", "copy": "Informes compartibles en cuatro idiomas.", "bulletPoints": ["Estimaciones Shopmonkey", "Videos", "Listas de verificación"] }
+      ]
+    },
+    "wraps": {
+      "eyebrow": "Envolturas",
+      "title": "Diseño y protección",
+      "description": "Branding comercial y films protectores.",
+      "sections": [
+        { "title": "Diseño", "copy": "Equipo creativo interno.", "bulletPoints": ["Flotillas", "Gráficos", "Reflectantes"] },
+        { "title": "Protección", "copy": "PPF y recubrimientos cerámicos.", "bulletPoints": ["PPF autorreparable", "Cerámica", "Planes de mantenimiento"] }
+      ]
+    },
+    "painting": {
+      "eyebrow": "Pintura",
+      "title": "Pintura automotriz",
+      "description": "Cabinas controladas y acabados garantizados.",
+      "sections": [
+        { "title": "Acabado OEM", "copy": "Cabinas climatizadas sin polvo.", "bulletPoints": ["Base acuosa", "Igualación", "Capas UV"] },
+        { "title": "Entrega", "copy": "Detalle final y protección opcional.", "bulletPoints": ["Inspección final", "Cerámica opcional", "Garantía"] }
+      ]
+    }
+  },
+  "forms": {
+    "appointment": {
+      "name": "Nombre",
+      "email": "Correo",
+      "phone": "Teléfono",
+      "preferredDate": "Fecha preferida",
+      "serviceType": "Servicio",
+      "notes": "Notas",
+      "cta": "Enviar cita",
+      "submitting": "Enviando...",
+      "success": "¡Gracias! Confirmaremos tu cita pronto.",
+      "serviceOptions": {
+        "engine": "Motor",
+        "body": "Carrocería",
+        "diagnostics": "Diagnóstico",
+        "wraps": "Envolturas",
+        "painting": "Pintura"
+      },
+      "errors": {
+        "name": "Ingresa tu nombre",
+        "email": "Correo inválido",
+        "phone": "Ingresa teléfono",
+        "preferredDate": "Selecciona fecha"
+      }
+    },
+    "serviceInquiry": {
+      "title": "Solicita un plan personalizado",
+      "description": "Cuéntanos de tu vehículo y un agente IA prepara opciones.",
+      "vehicle": "Vehículo",
+      "year": "Año",
+      "make": "Marca",
+      "model": "Modelo",
+      "descriptionField": "Describe tu proyecto",
+      "cta": "Enviar",
+      "submitting": "Enviando...",
+      "success": "¡Recibimos tu proyecto!",
+      "errors": {
+        "vehicle": "Ingresa el vehículo",
+        "year": "Ingresa el año",
+        "make": "Ingresa la marca",
+        "model": "Ingresa el modelo",
+        "description": "Describe la necesidad"
+      }
+    },
+    "quote": {
+      "name": "Nombre",
+      "email": "Correo",
+      "phone": "Teléfono",
+      "insuranceProvider": "Aseguradora",
+      "damagePhotos": "Fotos del daño",
+      "message": "Describe el daño",
+      "cta": "Solicitar cotización",
+      "submitting": "Enviando...",
+      "success": "¡Solicitud recibida!",
+      "errors": {
+        "name": "Ingresa tu nombre",
+        "email": "Correo inválido",
+        "phone": "Ingresa teléfono",
+        "message": "Describe el daño"
+      }
+    }
+  },
+  "book": {
+    "eyebrow": "Reservas",
+    "title": "Reserva tu hora",
+    "description": "Confirma por SMS, email o llamada.",
+    "why": {
+      "title": "Ventajas",
+      "copy": "Técnicos expertos con agentes IA.",
+      "bullets": ["Disponibilidad en tiempo real", "Seguimiento multilingüe", "Inspecciones digitales"]
+    }
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Habla con el equipo",
+    "description": "Atención 24/7 por chat, teléfono o IA.",
+    "visit": { "title": "Visítanos", "copy": "Cerca de Paine Field con estacionamiento." },
+    "address": "11800 Airport Rd, Everett, WA 98204",
+    "phone": "(425) 555-0147",
+    "hours": "Lun-Vie 8am-6pm | Sáb 9am-2pm",
+    "directions": "Abrir en Google Maps"
+  },
+  "blog": {
+    "eyebrow": "Consejos locales",
+    "title": "Consejos para Everett",
+    "description": "Mantenimiento por temporada.",
+    "cta": "Leer",
+    "posts": [
+      { "slug": "spring-wheel-alignment", "title": "Alineación de primavera", "excerpt": "Evita desgaste irregular.", "date": "5 marzo 2024" },
+      { "slug": "winter-battery-check", "title": "Revisión de batería", "excerpt": "Evita quedarte sin carga.", "date": "1 noviembre 2023" },
+      { "slug": "summer-ac-maintenance", "title": "Mantenimiento de A/C", "excerpt": "Mantén el viaje fresco.", "date": "10 junio 2023" }
+    ]
+  },
+  "blogDetail": {
+    "posts": {
+      "spring-wheel-alignment": { "title": "Alineación en primavera", "date": "5 marzo 2024", "content": "<p>Después del invierno de Everett realiza alineación para proteger neumáticos.</p>" },
+      "winter-battery-check": { "title": "Chequeo de batería invernal", "date": "1 noviembre 2023", "content": "<p>Probamos y reemplazamos baterías antes del frío.</p>" },
+      "summer-ac-maintenance": { "title": "Mantén el A/C en verano", "date": "10 junio 2023", "content": "<p>Recargas, filtros y detección de fugas para viajes frescos.</p>" }
+    }
+  }
+}
