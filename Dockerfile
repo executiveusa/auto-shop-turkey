@@ -15,7 +15,8 @@ FROM node:18-alpine AS runner
 WORKDIR /app
 
 ENV NODE_ENV=production \
-    NEXT_TELEMETRY_DISABLED=1
+    NEXT_TELEMETRY_DISABLED=1 \
+    PORT=3000
 
 COPY --from=builder /app/package.json ./
 COPY --from=builder /app/node_modules ./node_modules
@@ -29,4 +30,4 @@ RUN npm install -g vercel@latest railway@latest @shopify/cli@latest
 
 EXPOSE 3000
 
-CMD ["/bin/sh", "-c", "npm run build && npm start"]
+CMD ["npm", "start"]
