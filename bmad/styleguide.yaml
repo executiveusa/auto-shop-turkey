@@ -1,0 +1,115 @@
+meta:
+  version: 2024-06-08
+  based_on: bmad/design_tokens.json
+  notes: "Applies to Everett Auto Works marketing surfaces and forms."
+foundations:
+  typography:
+    primary_font: "token:typography.fontFamily.sans"
+    heading_scale:
+      h1: "token:typography.sizes.4xl / token:typography.lineHeights.tight"
+      h2: "token:typography.sizes.3xl / token:typography.lineHeights.snug"
+      h3: "token:typography.sizes.2xl / token:typography.lineHeights.snug"
+      body: "token:typography.sizes.base / token:typography.lineHeights.relaxed"
+    usage:
+      - "Use uppercase tracking for eyebrows with size token:typography.sizes.xs and letter-spacing 0.12em."
+      - "Limit paragraph width to 65ch for readability."
+  color:
+    primary: "token:color.primary.500"
+    accent: "token:color.accent.500"
+    success: "token:color.success.500"
+    trust: "token:color.trust.500"
+    neutral_background: "token:color.neutral.50"
+    focus_ring: "token:color.focusRing"
+    rules:
+      - "Reserve accent for high-emphasis CTAs on light surfaces with foreground token:color.accent.foreground."
+      - "Use success for confirmation text or badges; ensure minimum contrast ratio 4.5:1 against token:color.neutral.50."
+      - "Apply focus ring color via 2px outline plus 2px offset shadow."
+  spacing:
+    base_unit: "token:spacing.base"
+    stack: ["0", "1", "2", "3", "4", "6", "8", "10", "12", "16", "24"]
+    rules:
+      - "Default section padding: token:spacing.scale.16 on desktop, token:spacing.scale.10 on mobile."
+      - "Card internal padding: token:spacing.scale.6 vertically, token:spacing.scale.6 horizontally."
+  radii:
+    card: "token:radii.xl"
+    button: "token:radii.pill"
+    chip: "token:radii.md"
+  shadow:
+    card: "token:shadow.card"
+    button: "token:shadow.button"
+components:
+  button:
+    default:
+      background: "token:color.accent.500"
+      text: "token:color.accent.foreground"
+      radius: "token:radii.pill"
+      shadow: "token:shadow.button"
+      padding: "px token:spacing.scale.6, py token:spacing.scale.3"
+      focus: "outline 2px token:color.focusRing + offset shadow"
+    secondary:
+      background: transparent
+      text: "token:color.primary.500"
+      border: "1px solid token:color.primary.500"
+      hover:
+        background: "token:color.primary.500"
+        text: "token:color.primary.foreground"
+  card:
+    background: "token:color.neutral.50"
+    border: "1px solid token:color.border"
+    radius: "token:radii.xl"
+    padding: "token:spacing.scale.6"
+    shadow: "token:shadow.card"
+    heading_color: "token:color.primary.500"
+  form_field:
+    background: "#ffffff"
+    border_default: "1px solid token:color.border"
+    border_focus: "1px solid token:color.primary.500"
+    focus_ring: "outline 2px token:color.focusRing"
+    label:
+      color: "token:color.neutral.700"
+      size: "token:typography.sizes.sm"
+    error_text:
+      color: "token:color.accent.500"
+      size: "token:typography.sizes.xs"
+  notification:
+    success:
+      background: "token:color.success.50"
+      border: "1px solid token:color.success.500"
+      text: "token:color.success.500"
+      icon: "token:color.success.500"
+    error:
+      background: "#fef2f2"
+      border: "1px solid #b91c1c"
+      text: "#b91c1c"
+patterns:
+  hero:
+    layout: "two-column on >=md with image or illustration on right; stack on mobile"
+    padding: "token:spacing.scale.16 top/bottom"
+    background: "gradient from token:color.primary.500 to token:color.trust.500"
+    cta_group:
+      gap: "token:spacing.scale.4"
+      primary_button: "components.button.default"
+      secondary_button: "components.button.secondary"
+  service_grid:
+    columns:
+      mobile: 1
+      tablet: 2
+      desktop: 3
+    card: "components.card"
+    icon_color: "token:color.primary.500"
+    cta_text: "token:color.accent.500"
+  forms:
+    grid:
+      mobile: 1
+      desktop: 2
+    submit_button: "components.button.default"
+    error_region: "notification.error"
+accessibility:
+  focus_management:
+    - "All interactive components must render the focus ring token and preserve keyboard navigation."
+  aria:
+    - "Provide aria-live=polite regions for form submission success and failure messages."
+  contrast:
+    - "Verify contrast >= 4.5:1 for text using accent or success colors on neutral backgrounds."
+  motion:
+    - "Respect prefers-reduced-motion by disabling translate animations when the media query is active."
